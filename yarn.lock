@@ -18070,10 +18070,9 @@ traverse@~0.6.6:
   resolved "https://registry.yarnpkg.com/traverse/-/traverse-0.6.6.tgz#cbdf560fd7b9af632502fed40f918c157ea97137"
   integrity sha1-y99WD9e5r2MlAv7UD5GMFX6pcTc=
 
-trello-smooth-dnd@1.0.0:
+trello-smooth-dnd@will-ks/smooth-dnd#master:
   version "1.0.0"
-  resolved "https://registry.yarnpkg.com/trello-smooth-dnd/-/trello-smooth-dnd-1.0.0.tgz#0003d5b35a1651a16a165b7bfb6b41d0a7c52a17"
-  integrity sha512-KgYEwmxX08Dl4OmioEv24LSnlNp9jNv8lwTQlUMbMm6B+VuwyQuuuoyu4wlsRweiMCCC6sZXpCCGkmAni/vCaQ==
+  resolved "https://codeload.github.com/will-ks/smooth-dnd/tar.gz/223f4672bea94f65b98af4fd28ab0db2c3b9c8a2"
 
 trim-newlines@^3.0.0:
   version "3.0.0"
